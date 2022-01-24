@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Apka na zaliczenie</string>
+    <string name="aboutAuthor">O Autorze</string>
+    <string name="showPlaylist">Pokaż plejkę</string>
+    <string name="openMetronom">"Puk puk "</string>
+    <string name="buyList">Lista życzeń</string>
+    <string name="addConcertDate">Dodaj datę koncertu</string>
+    <string name="nearestGig">Najbliższy termin koncertu</string>
+    <string name="whoIsAuthor">Kto jest autorem appki</string>
+    <string name="checkWho">Sprawdź jyż teraz</string>
+    <string name="whoAmI">Hej ! Mam na imię Patryk !</string>
+    <string name="addGig_GigName">Nazwa wydarzenia</string>
+    <string name="addGig_GigPlace">MIejsce docelowe</string>
+    <string name="addGig_GigDate">Data wydarzenia</string>
+    <string name="showGig">Pokaż koncert</string>
+    <string name="youShouldBuy">Powinieneś kupić..</string>
+    <string name="shouldBuyNone">nic</string>
+    <string name="shouldBuyButton">Dodaj co chcesz kupić!</string>
+    <string name="ChangeShouldBuy">Dodaj teraz</string>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FinalApp</string>
+    <string name="aboutAuthor">About Author</string>
+    <string name="showPlaylist">Show Play List</string>
+    <string name="openMetronom">Open Metronom</string>
+    <string name="buyList">MustHave.. or BuyList</string>
+    <string name="addConcertDate">Add Gig Date</string>
+    <string name="nearestGig">Nearest Gig Date</string>
+    <string name="whoIsAuthor">Who is the author of App?</string>
+    <string name="checkWho">Get know right know</string>
+    <string name="whoAmI">Hey! I am Patrick !</string>
+    <string name="addGig_GigName">Event Name</string>
+    <string name="addGig_GigPlace">Destination</string>
+    <string name="addGig_GigDate">Date of Event</string>
+    <string name="showGig">Show Gig</string>
+    <string name="youShouldBuy">So know you should by..</string>
+    <string name="shouldBuyNone">None</string>
+    <string name="shouldBuyButton">Add should buy product !</string>
+    <string name="ChangeShouldBuy">Add Now</string>
+    <string name="playList" translatable="false">1. O.N.A - to naprawdę już koniec 2. KAT - Śpisz jak kamień 3. The Broken Knife - Niebieski 4. TSA - Wyciągam Swoją dłoń 5. KAT - Wyrocznia</string>
+</resources>
